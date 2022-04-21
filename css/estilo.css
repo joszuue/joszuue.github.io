@@ -1,0 +1,94 @@
+body{
+    background-color: #FF5A5F;
+    color: white;
+    font-family: Century Gothic ;
+    margin: 0;
+	padding: 0;
+}
+
+header{
+    height: 57px;
+    background-color: #3C3C3C;
+    margin: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+
+li{
+    margin: 25px;
+    display: inline;
+    margin-left: 8px;
+    bottom: 0%;
+    margin-top: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #FF5A5F;
+}
+
+.contenedor img{
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin-left: 50px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.contenedorVideos{
+    text-align: center;
+}
+
+.video1{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+}
+
+.video2{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+}
+
+.video1 p{
+    padding: 10px;
+    text-align: justify;
+}
+
+.video2 p{
+    padding: 10px;
+    text-align: justify;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    bottom: 0%;
+    display: inline-block;
+    color: white;
+    background-color: #3C3C3C;
+    text-align: center;
+    
+}
+
+footer p{
+  margin-top: 15px;
+    
+}
+
+footer .redes img{
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
